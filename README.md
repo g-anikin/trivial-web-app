@@ -7,9 +7,9 @@ Also there is another one simple application, which generates requests to web-ap
 ## Deploy using docker-compose
 
 Used runtime:
-OS: Debian 10.4
-Docker version 20.10.12, build e91ed57
-Docker-compose version 1.29.2, build 5becea4c
+* OS: Debian 10.4
+* Docker version 20.10.12, build e91ed57
+* Docker-compose version 1.29.2, build 5becea4c
 
 1. Clone repository and go to its directory
 ```
@@ -29,10 +29,10 @@ $ docker-compose up -d --build
 ## Deploy using minikube
 
 Used runtime:
-OS: Debian 10.4
-Docker version: 20.10.12, build e91ed57
-Minikube version: v1.25.2, commit: 362d5fdc0a3dbee389b3d3f1034e8023e72bd3a7
-Kubectl version: v1.23.4, commit: e6c093d87ea4cbb530a7b2ae91e54c0842d8308a
+* OS: Debian 10.4
+* Docker version: 20.10.12, build e91ed57
+* Minikube version: v1.25.2, commit: 362d5fdc0a3dbee389b3d3f1034e8023e72bd3a7
+* Kubectl version: v1.23.4, commit: e6c093d87ea4cbb530a7b2ae91e54c0842d8308a
 
 1. Clone repository
 ```
